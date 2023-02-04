@@ -26,6 +26,7 @@
             android:layout_height="wrap_content"
             android:maxLines="2"
             android:text="title"
+            android:layout_marginTop="3dp"
             android:textColor="@color/black" />
 
         <TextView
@@ -33,6 +34,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="date"
+            android:layout_marginTop="3dp"
             android:textColor="@color/black" />
 
         <TextView
@@ -40,6 +42,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="count"
+            android:layout_marginTop="3dp"
             android:textColor="@color/black" />
     </LinearLayout>
 </LinearLayout>
