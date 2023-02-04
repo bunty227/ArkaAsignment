@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ArkaAsignment</string>
+    <string name="list">List</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="grid">Grid</string>
+    <string name="no_image_txt">No any image</string>
 </resources>
